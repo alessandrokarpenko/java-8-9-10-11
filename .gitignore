@@ -1,0 +1,18 @@
+/.idea/
+/jamp-bt.iml
+/jmp-bank-api/jmp-bank-api.iml
+/jmp-service-api/jmp-service-api.iml
+/jmp-cloud-bank-impl/jmp-cloud-bank-impl.iml
+/jmp-cloud-service-impl/jmp-cloud-service-impl.iml
+/jmp-dto/jmp-dto.iml
+/jmp-application/jmp-application.iml
+/jmp-data-storage/jmp-data-storage.iml
+
+# Project exclude paths
+/jmp-application/target/
+/jmp-bank-api/target/
+/jmp-cloud-bank-impl/target/
+/jmp-cloud-service-impl/target/
+/jmp-data-storage/target/
+/jmp-dto/target/
+/jmp-service-api/target/
